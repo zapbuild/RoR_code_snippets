@@ -1,4 +1,4 @@
-# RoR_code_snippets
+# RoR code snippets
 
 RoR Sample code
 
@@ -6,9 +6,9 @@ RoR Sample code
   - Rails
   - Postgres 
 
-### SampleCode1
-SampleCode1 contacts a module related to work experience. User can manage his/her work experience. It contains Spec file too.
+### Sample Code 1
+SampleCode1 Folder contacts a module related to work experience. User can manage his/her work experience. It contains Spec file too.
 
-### SampleCode2
-SampleCode2 contacts a module related to job post. User can Add and Manage the Job Posts added.
+### Sample Code 2
+SampleCode2 Directory contacts a module related to job post. User can Add and Manage the Job Posts added.
 
